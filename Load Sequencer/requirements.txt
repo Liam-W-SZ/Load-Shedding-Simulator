@@ -1,0 +1,23 @@
+# Core dependencies for simulator.py
+argparse  # Built-in module (Python 3.2+)
+
+# Modbus communication libraries (for tv_tools.py)
+pymodbus>=3.0.0
+pyserial>=3.5
+minimalmodbus>=2.0.1
+
+# Additional Modbus/serial communication libraries that might be needed
+pyusb>=1.2.1
+libusb1>=3.0.0
+
+# Development and testing tools
+pytest>=7.0.0
+pytest-cov>=4.0.0
+flake8>=5.0.0
+black>=22.0.0
+
+# Documentation
+sphinx>=5.0.0
+
+# Type checking (optional)
+mypy>=1.0.0

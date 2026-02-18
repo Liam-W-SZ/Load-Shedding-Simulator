@@ -1,0 +1,23 @@
+Link: https://loadshedding.eskom.co.za/LoadShedding/ScheduleInterpretation
+
+
+
+////////////////////////////////////////////////////////////////////////////////////
+
+Stage 1 load shedding means that up to 1000MW of capacity needs to be shed. Consumers can expect to be shed up to 3 times over a four-day period for two hours at a time, or 3 times over an eight-day period for four hours at a time.
+
+Stage 2 load shedding means that up to 2000MW of capacity needs to be shed. Consumers can expect to be shed up to 6 times over a four-day period for two hours at a time, or 6 times over an eight-day period for four hours at a time.
+
+Stage 3 load shedding means that up to 3000MW of capacity needs to be shed. Consumers can expect to be shed up to 9 times over a four-day period for two hours at a time, or 9 times over an eight-day period for four hours at a time.
+
+Stage 4 load shedding means that up to 4000MW of capacity needs to be shed. Consumers can expect to be shed up to 12 times over a four-day period for two hours at a time, or 12 times over an eight-day period for four hours at a time.
+
+Stage 5 load shedding means that up to 5000MW of capacity needs to be shed. Consumers can expect to be shed up to 12 times over a four-day period: • 9 times for 2 hours • 3 times for 4 hours
+
+Stage 6 load shedding means that up to 6000MW of capacity needs to be shed. Consumers can expect to be shed up to 12 times over a four-day period: • 6 times for 2 hours • 6 times for 4 hours
+
+Stage 7 load shedding means that up to 7000MW of capacity needs to be shed. Consumers can expect to be shed up to 12 times over a four-day period: • 3 times for 2 hours • 9 times for 4 hours
+
+Stage 8 load shedding means that up to 8000MW of capacity needs to be shed. Consumers can expect to be shed up to 12 times over a four-day period for four hours at a time.
+
+

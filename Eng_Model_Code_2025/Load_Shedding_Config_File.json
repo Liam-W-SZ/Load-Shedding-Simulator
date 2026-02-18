@@ -1,0 +1,111 @@
+{
+    "Stage 1": [
+        {
+            "hours_on": 1,
+            "hours_off": 1,
+            "Ess_hours_on": 0,
+            "Ess_hours_off": 0,
+            "NEss_hours_on": 0,
+            "NEss_hours_off": 0,
+            "Simulation Period": 2,
+            "Note - 2 hours of load shedding x 3 over 4 day period(96 hours)":""
+        }
+    ],
+    "Stage 2": [
+        {
+            "hours_on": 16,
+            "hours_off": 2,
+            "Ess_hours_on": 0,
+            "Ess_hours_off": 0,
+            "NEss_hours_on": 0,
+            "NEss_hours_off": 0,
+            "Simulation Period": 92,
+            "Note - 2 hours of load shedding x 6 over 4 day period(96 hours)":""
+        }
+    ],
+    "Stage 3": [
+        {
+            "hours_on": 9,
+            "hours_off": 2,
+            "Ess_hours_on": 0,
+            "Ess_hours_off": 0,
+            "NEss_hours_on": 0,
+            "NEss_hours_off": 0,
+            "Simulation Period": 90,
+            "Note - 2 hours of load shedding x 9 over 4 day period(96 hours)":""
+        }
+    ],
+    "Stage 4": [
+        {
+            "hours_on": 6,
+            "hours_off": 2,
+            "Ess_hours_on": 0,
+            "Ess_hours_off": 0,
+            "NEss_hours_on": 0,
+            "NEss_hours_off": 0,
+            "Simulation Period": 90,
+            "Note - 2 hours of load shedding x 12 over 4 day period(96 hours)":""
+        }
+    ],
+    "Stage 5": [
+        {
+            "hours_on": 4,
+            "hours_off": 4,
+            "Ess_hours_on": 0,
+            "Ess_hours_off": 0,
+            "NEss_hours_on": 0,
+            "NEss_hours_off": 0,
+            "Simulation Period": 92,
+            "Note - 30 hours of load shedding over 96 hours, occuring 12x":""
+        }
+    ],
+    "Stage 6": [
+        {
+            "hours_on": 4,
+            "hours_off": 4,
+            "Ess_hours_on": 0,
+            "Ess_hours_off": 0,
+            "NEss_hours_on": 0,
+            "NEss_hours_off": 0,
+            "Simulation Period": 96,
+            "Note - 36 hours of load shedding over 96 hours occuring 12x":""
+        }
+    ],
+    "Stage 7": [
+        {
+            "hours_on": 3,
+            "hours_off": 4,
+            "Ess_hours_on": 0,
+            "Ess_hours_off": 0,
+            "NEss_hours_on": 0,
+            "NEss_hours_off": 0,
+            "Simulation Period": 92,
+            "Note - 42 hours of load shedding over 96 hours":""
+        }
+    ],
+    "Stage 8": [
+        {
+            "hours_on": 2,
+            "hours_off": 4,
+            "Ess_hours_on": 0,
+            "Ess_hours_off": 0,
+            "NEss_hours_on": 0,
+            "NEss_hours_off": 0,
+            "Simulation Period": 92,
+            "Note - 48 hours of load shedding over 96 hours":""
+        }
+    ],
+    "Custom_Sim": [
+        {
+            "hours_on": 2,
+            "hours_off": 4,
+            "Ess_hours_on": 0.02,
+            "Ess_hours_off": 0.02,
+            "NEss_hours_on": 1.0,
+            "NEss_hours_off": 4.00,
+            "Simulation Period": 48.00,
+            "Note - 48 hours of load shedding over 96 hours":""
+        }
+    ]
+
+}

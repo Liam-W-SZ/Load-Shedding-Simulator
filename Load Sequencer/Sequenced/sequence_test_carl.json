@@ -1,0 +1,99 @@
+{
+    "Description": "Periodic Test",
+    "Version": "1.0",
+    "Author": "Load Sequencer Team",
+    "Help": "This file defines a sequence test for the Load Sequencer. It includes meter definitions and a single seqeunce sets for different stages of the test. Each Set will run in a different sequence. time need to be 10:00",
+    "Sequence": {
+        "00:00": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "On",
+                "PV NEss":"On"
+            },
+        "02:00": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "Off",
+                "PV NEss":"Off"
+            },
+        "04:00": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "Off",
+                "PV NEss":"Off"
+            },
+        "06:00": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "On",
+                "PV NEss":"On"
+            },
+        "08:00": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "Off",
+                "PV NEss":"Off"
+            },
+        "10:00": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "Off",
+                "PV NEss":"Off"
+            },
+        "12:00": {
+                "Grid": "Off",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "Off",
+                "PV NEss":"Off"
+            },
+        "14:00": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "On",
+                "PV NEss":"On"
+            },
+        "14:30": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "Off",
+                "PV NEss":"Off"
+            },
+        "16:00": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "Off",
+                "PV NEss":"Off"
+            },
+        "18:00": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "On",
+                "PV NEss":"On"
+            },
+        "20:00": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "Off",
+                "PV NEss":"Off"
+            },
+        "22:00": {
+                "Grid": "On",
+                "G6K2 Ess-Var": "On",
+                "PV Ess-Var": "On",
+                "G6K2 NEss": "Off",
+                "PV NEss":"Off"
+            }
+        }
+}

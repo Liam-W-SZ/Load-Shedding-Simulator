@@ -1,0 +1,39 @@
+Load Shedding Simulator (LSS) Help Guide
+=======================================
+
+1. Configuration Simulations
+---------------------------
+- Use the dropdown menu to select a predefined load shedding schedule
+- Click "Start Sim" to begin the simulation
+- Click "End Sim" to stop the simulation at any time
+
+2. Manual Controls
+-----------------
+Grid Controls:
+- Grid On: Turns on grid power
+- Grid Off: Turns off grid power
+
+ESS Controls:
+- ESS On: Turns on essential services
+- ESS Off: Turns off essential services
+
+Non-Essential Controls:
+- N-ESS On: Turns on non-essential services
+- N-ESS Off: Turns off non-essential services
+
+Note: Manual controls are disabled during automated simulations.
+
+3. Status Panel
+--------------
+The status panel displays:
+- Current simulation status
+- Countdown timer
+- Operation messages
+
+4. Additional Features
+--------------------
+- Save: Saves current simulation data (Not implemented)
+- Clear: Clears the status panel
+- Quit: Exits the application
+
+For additional support, contact Liam.

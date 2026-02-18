@@ -1,0 +1,40 @@
+{
+    "Description": "Periodic Test",
+    "Version": "1.0",
+    "Author": "Load Sequencer Team",
+    "Help": "This file defines a sequence test for the Load Sequencer. It includes meter definitions and a single seqeunce sets for different stages of the test. Each Set will run in a different sequence. time need to be 10:00",
+    "Sequence": {
+        "00:00": {
+                "PV NEss": "Off",
+                "G6K2 NEss": "Off"
+            },
+        "05:00": {
+                "PV NEss": "On",
+                "G6K2 NEss": "On"
+            },
+        "08:00": {
+                "PV NEss": "Off",
+                "G6K2 NEss": "OFF"
+            },
+        "14:50": {
+                "PV NEss": "On",
+                "G6K2 NEss": "On"
+            },
+        "14:52": {
+                "PV NEss": "Off",
+                "G6K2 NEss": "Off"
+            },
+        "14:55": {
+                "PV NEss": "Off",
+                "G6K2 NEss": "Off"
+            },
+        "15:00": {
+                "PV NEss": "Off",
+                "G6K2 NEss": "Off"
+            },
+        "20:00": {
+                "PV NEss": "Off",
+                "G6K2 NEss": "Off"
+            }
+        }
+}

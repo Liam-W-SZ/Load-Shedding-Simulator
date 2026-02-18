@@ -1,0 +1,25 @@
+{
+    "Description": "Periodic Test",
+    "Version": "1.0",
+    "Author": "Load Sequencer Team",
+    "Help": "This file defines a periodic test for the Load Sequencer. It includes meter definitions and sets for different stages of the test. Each Set will run in a different sequence. Period is in Minutes and Duty is Percentage of Period On",
+    "Sets":
+    {
+        "Stage 4": {
+            "Grid": {
+                "Duty": 70,
+                "Period": 510
+            }
+        },
+        "variable": {
+            "G6K2 Ess-Var": {
+                "Duty": 50,
+                "Period": 2
+            },
+            "PV Ess-Var": {
+                "Duty": 50,
+                "Period": 2
+            }
+        }
+    }
+}
